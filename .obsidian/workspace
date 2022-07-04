@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b97525147020e914",
+        "id": "4354497f9b819461",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -120,8 +120,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b97525147020e914",
+  "active": "4354497f9b819461",
   "lastOpenFiles": [
+    "DailyNotes/2022-07/2022-07-04.md",
     "DailyNotes/2022-02/2022-02-09.md",
     "DailyNotes/2022-02/2022-02-08.md",
     "DailyNotes/2022-01/2022-01-24.md",
@@ -130,7 +131,6 @@
     "DailyNotes/2022-01/2022-01-19.md",
     "DailyNotes/2022-01/2022-01-18.md",
     "DailyNotes/2022-01/2022-01-17.md",
-    "DailyNotes/2022-01/2022-01-14.md",
-    "DailyNotes/2022-01/2022-01-12.md"
+    "DailyNotes/2022-01/2022-01-14.md"
   ]
 }
