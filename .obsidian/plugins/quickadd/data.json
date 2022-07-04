@@ -1,0 +1,58 @@
+{
+  "choices": [
+    {
+      "id": "2bb226a4-c8b0-4482-b321-cd40e1853c39",
+      "name": "撰写日志",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/日志模版",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "DailyNotes/{{DATE:YYYY-MM-DD}}.md"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "0df40662-0fe3-45fe-a4b1-974e1b087eed",
+      "name": "撰写博客",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/博客模版",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Blog Posts/{{DATE:YYYY-MM-DD}}.md"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

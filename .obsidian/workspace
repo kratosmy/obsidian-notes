@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "5fb954edbfc7bd08",
+    "type": "split",
+    "children": [
+      {
+        "id": "e96871bacf2c87d7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57bd4acb96bee958",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff661d638e59b210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b2102fccdc95c55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "efb6c7f112afedef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5a83cadab1e70ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ade0d390222d421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "666544032ab1971c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a21e77e6ff3d5fac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac1523865c0aa62a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a76443e7770abd41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bc5e50a2b481da93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce10763fb206af17",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e96871bacf2c87d7",
+  "lastOpenFiles": [
+    "Blog Posts/Archived/JVM/2020-12-11-JVM.md",
+    "DailyNotes/2022-03/2022-03-14.md",
+    "DailyNotes/2022-03/2022-03-04.md",
+    "DailyNotes/2022-07-04.md",
+    "DailyNotes/2022-03/2022-03-16.md",
+    "DailyNotes/2022-03/2022-03-15.md",
+    "DailyNotes/2022-03/2022-03-02.md",
+    "Day Planners/Day Planner-20220704.md",
+    "Templates/日志模版.md",
+    "Templates/博客模版.md"
+  ]
+}
