@@ -80,22 +80,22 @@ For help and/or CSS snippets, thanks to:
 
   /* Preview mode */
 
-  --text: 'LXGWWenKai-Bold', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans,
+  --text: 'Gowun Batang', 'LXGWWenKai-Bold', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans,
     Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
 
   /* Editor mode */
 
-  --text-editor: 'LXGWWenKai-Bold', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+  --text-editor: 'Gowun Batang', 'LXGWWenKai-Bold', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
     Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
 
   /* Code */
 
-  --font-monospace: 'LXGWWenKai-Bold', 'JetBrains Mono', SFMono-Regular, Consolas, 'Roboto Mono',
+  --font-monospace: 'Gowun Batang', 'LXGWWenKai-Bold', 'JetBrains Mono', SFMono-Regular, Consolas, 'Roboto Mono',
     monospace;
 
   /* UI */
 
-  --font-ui: 'LXGWWenKai-Bold', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans,
+  --font-ui: 'Gowun Batang', 'LXGWWenKai-Bold', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans,
     Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
 
   /* Colors, sizes, weights, padding */
@@ -5921,7 +5921,7 @@ body:not(.minimal-icons-off) svg.workspace-glyph > path,
 body:not(.minimal-icons-off) svg.box-glyph > path,
 body:not(.minimal-icons-off) svg.wand > path,
 body:not(.minimal-icons-off) svg.longform > path,
-body:not(.minimal-icons-off) svg.changelog > path, 
+body:not(.minimal-icons-off) svg.changelog > path,
 body:not(.no-sanctum-icons) svg.reading-glasses > path {
   display: none;
 }
@@ -6468,7 +6468,7 @@ settings:
         description: Use default icons instead of minimal set
         type: class-toggle
         default:  false
-    - 
+    -
         id: full-file-names
         title: Show full file names
         description: Turn off trimming on files in sidebar
@@ -6491,7 +6491,7 @@ settings:
         type: heading
         level: 2
         collapsed: true
-    - 
+    -
         id: text
         title: Text font
         description: Used in preview mode
@@ -6521,13 +6521,13 @@ settings:
         type: heading
         level: 2
         collapsed: true
-    - 
+    -
         id: default-font-color
         title: Default font colors
         description: Use the default font color styling for bold, italics, and quotes
         type: class-toggle
         default:  false
-    - 
+    -
         id: accent-h
         title: Link hue color
         description: Hue of both internal and external links
@@ -6536,76 +6536,76 @@ settings:
         min: 0
         max: 360
         step: 1
-    - 
+    -
         id: strong-color
         title: Bold font color
         type: variable-color
         format: hex
-        default: '#FF82B2' 
-    - 
+        default: '#FF82B2'
+    -
         id: em-color
         title: Italics font color
         type: variable-color
         format: hex
-        default: '#FF82B2' 
-    - 
+        default: '#FF82B2'
+    -
         id: green
         title: Blockquotes font color
         type: variable-color
         format: hex
-        default: '#3EB4BF' 
-    - 
+        default: '#3EB4BF'
+    -
         id: tag-background-color-l
         title: Tag background color (Light mode)
         type: variable-color
         format: hex
-        default: '#BDE1D3' 
-    - 
+        default: '#BDE1D3'
+    -
         id: tag-font-color-l
         title: Tag font color (Light mode)
         type: variable-color
         format: hex
-        default: '#1D694B' 
-    - 
+        default: '#1D694B'
+    -
         id: tag-background-color-d
         title: Tag background color (Dark mode)
         type: variable-color
         format: hex
-        default: '#1D694B' 
-    - 
+        default: '#1D694B'
+    -
         id: tag-font-color-d
         title: Tag font color (Dark mode)
         type: variable-color
         format: hex
-        default: '#' 
-    - 
+        default: '#'
+    -
         id: editor-font-size
         title: Editor font size
         description: Font size in em for editor and preview overall font size
         type: variable-number
         default: 1
         format: em
-    - 
+    -
         id: font-small
         title: Sidebar and tag font size
         description: Font size in px of sidebar, tags, and small text
         type: variable-number
         default: 13
         format: px
-    - 
+    -
         id: font-smaller
         title: Smaller font size
         description: Font size in px of smaller text
         type: variable-number
         default: 11
         format: px
-    - 
+    -
         id: line-height
         title: Body line height
         description: Line height of the main text
         type: variable-number
         default: 1.5
-    - 
+    -
         id: line-width
         title: Normal line width
         description: Number of characters per line
@@ -6625,19 +6625,19 @@ settings:
         type: heading
         level: 2
         collapsed: true
-    - 
+    -
         id: level-1-headings
         title: Level 1 Headings
         type: heading
         level: 3
         collapsed: true
-    - 
+    -
         id: h1
         title: H1 font size
         description: Accepts any CSS font-size value
         type: variable-text
         default: 1.5em
-    - 
+    -
         id: h1-weight
         title: H1 font weight
         description: Accepts numbers representing the CSS font-weight
@@ -6649,43 +6649,43 @@ settings:
         type: variable-color
         format: hex
         default: '#'
-    - 
+    -
         id: level-2-headings
         title: Level 2 Headings
         type: heading
         level: 3
         collapsed: true
-    - 
+    -
         id: h2
         title: H2 font size
         description: Accepts any CSS font-size value
         type: variable-text
         default: 1.3em
-    - 
+    -
         id: h2-weight
         title: H2 font weight
         description: Accepts numbers representing the CSS font-weight
         type: variable-number
         default: 700
-    - 
+    -
         id: h2-color
         title: H2 color
         type: variable-color
         format: hex
         default: '#2E80F2'
-    - 
+    -
         id: level-3-headings
         title: Level 3 Headings
         type: heading
         level: 3
         collapsed: true
-    - 
+    -
         id: h3
         title: H3 font size
         description: Accepts any CSS font-size value
         type: variable-text
         default: 1.1em
-    - 
+    -
         id: h3-weight
         title: H3 font weight
         description: Accepts numbers representing the CSS font-weight
@@ -6697,67 +6697,67 @@ settings:
         type: variable-color
         format: hex
         default: '#2E80F2'
-    - 
+    -
         id: level-4-headings
         title: Level 4 Headings
         type: heading
         level: 3
         collapsed: true
-    - 
+    -
         id: h4
         title: H4 font size
         description: Accepts any CSS font-size value
         type: variable-text
         default: 0.9em
-    - 
+    -
         id: h4-weight
         title: H4 font weight
         description: Accepts numbers representing the CSS font-weight
         type: variable-number
         default: 500
-    - 
+    -
         id: h4-color
         title: H4 color
         type: variable-color
         format: hex
         default: '#E5B567'
-    - 
+    -
         id: level-5-headings
         title: Level 5 Headings
         type: heading
         level: 3
         collapsed: true
-    - 
+    -
         id: h5
         title: H5 font size
         description: Accepts any CSS font-size value
         type: variable-text
         default: 0.85em
-    - 
+    -
         id: h5-weight
         title: H5 font weight
         description: Accepts numbers representing the CSS font-weight
         type: variable-number
         default: 500
-    - 
+    -
         id: h5-color
         title: H5 color
         type: variable-color
         format: hex
         default: '#E83E3E'
-    - 
+    -
         id: level-6-headings
         title: Level 6 Headings
         type: heading
         level: 3
         collapsed: true
-    - 
+    -
         id: h6
         title: H6 font size
         description: Accepts any CSS font-size value
         type: variable-text
         default: 0.85em
-    - 
+    -
         id: h6-weight
         title: H6 font weight
         description: Accepts numbers representing the CSS font-weight
@@ -6769,7 +6769,7 @@ settings:
         type: variable-color
         format: hex
         default: '#'
-    - 
+    -
         id: advanced
         title: Advanced
         type: heading
@@ -6794,13 +6794,13 @@ settings:
         type: variable-select
         default: default
         options:
-            - 
+            -
                 label: Default
                 value: default
-            - 
+            -
                 label: Pointer
                 value: pointer
-            - 
+            -
                 label: Crosshair
                 value: crosshair
     -
