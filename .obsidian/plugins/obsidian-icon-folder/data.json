@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiGitRepositoryLine",
       "RiEvernoteFill",
       "FasDatabase",
       "FasBlog",
-      "RiArchiveDrawerLine",
-      "RiCheckboxMultipleBlankLine"
+      "RiArchiveDrawerLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,5 +26,6 @@
   "Blog Posts": "RiArticleLine",
   "Boards": "FasChalkboard",
   "DailyNotes": "RiEvernoteFill",
-  "Day Planners": "RiCheckboxMultipleBlankLine"
+  "Day Planners": "RiCheckboxMultipleBlankLine",
+  "Templates": "RiGitRepositoryLine"
 }
