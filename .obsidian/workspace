@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bebdfed292ee0679",
+        "id": "941f6099852dcb9e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -49,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -128,7 +120,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bebdfed292ee0679",
+  "active": "941f6099852dcb9e",
   "lastOpenFiles": [
     "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md",
     "DailyNotes/2022-07/2022-07-05.md",
