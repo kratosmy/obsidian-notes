@@ -4,7 +4,13 @@
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "RiEvernoteFill",
+      "FasDatabase",
+      "FasBlog",
+      "RiArchiveDrawerLine",
+      "RiCheckboxMultipleBlankLine"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraPadding": {
@@ -14,12 +20,11 @@
       "left": 2
     }
   },
-  "Blog Posts/Archived": {
-    "iconName": null,
-    "inheritanceIcon": "FasDatabase"
-  },
-  "Assets": {
-    "iconName": null,
-    "inheritanceIcon": "FasDatabase"
-  }
+  "Blog Posts/Archived": "RiArchiveDrawerLine",
+  "Assets": "RiDatabase2Line",
+  "Assets/Images": "RiImageLine",
+  "Blog Posts": "RiArticleLine",
+  "Boards": "FasChalkboard",
+  "DailyNotes": "RiEvernoteFill",
+  "Day Planners": "RiCheckboxMultipleBlankLine"
 }

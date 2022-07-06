@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "941f6099852dcb9e",
+        "id": "ffaacf444dff0b66",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DailyNotes/2022-07/2022-07-06.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DailyNotes/2022-07/2022-07-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,11 +101,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DailyNotes/2022-07/2022-07-06.md"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bc5e50a2b481da93",
@@ -120,17 +127,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "941f6099852dcb9e",
+  "active": "ffaacf444dff0b66",
   "lastOpenFiles": [
-    "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md",
+    "DailyNotes/2022-07/2022-07-06.md",
+    "DailyNotes/2022-07-07.md",
     "DailyNotes/2022-07/2022-07-05.md",
+    "Templates/日志模版.md",
+    "Templates/博客模版.md",
+    "Untitled.md",
+    "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md",
     "DailyNotes/2022-02/2022-02-09.md",
     "DailyNotes/2022-02/2022-02-08.md",
-    "DailyNotes/2022-01/2022-01-24.md",
-    "DailyNotes/2022-01/2022-01-23.md",
-    "DailyNotes/2022-01/2022-01-21.md",
-    "DailyNotes/2022-01/2022-01-19.md",
-    "DailyNotes/2022-01/2022-01-18.md",
-    "DailyNotes/2022-01/2022-01-17.md"
+    "DailyNotes/2022-01/2022-01-24.md"
   ]
 }

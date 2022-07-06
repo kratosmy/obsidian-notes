@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2021-01-22-Redis哨兵模式",
-      "path": "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md"
+      "basename": "2022-07-06",
+      "path": "DailyNotes/2022-07/2022-07-06.md"
     },
     {
       "basename": "2022-07-05",
       "path": "DailyNotes/2022-07/2022-07-05.md"
+    },
+    {
+      "basename": "日志模版",
+      "path": "Templates/日志模版.md"
+    },
+    {
+      "basename": "博客模版",
+      "path": "Templates/博客模版.md"
+    },
+    {
+      "basename": "2021-01-22-Redis哨兵模式",
+      "path": "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md"
     },
     {
       "basename": "2022-02-09",
@@ -103,14 +115,6 @@
     {
       "basename": "Day Planner-20220704",
       "path": "Day Planners/Day Planner-20220704.md"
-    },
-    {
-      "basename": "日志模版",
-      "path": "Templates/日志模版.md"
-    },
-    {
-      "basename": "博客模版",
-      "path": "Templates/博客模版.md"
     },
     {
       "basename": "2020-12-10-Homework3",

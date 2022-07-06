@@ -1,4 +1,5 @@
 {
   "folder": "DailyNotes",
-  "template": "Templates/日志模版"
+  "template": "Templates/日志模版",
+  "format": "YYYY-MM-DD"
 }
