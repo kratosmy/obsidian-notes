@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DailyNotes/2022-07/2022-07-05.md",
-            "mode": "source",
+            "file": "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sentinel auth-pass mymaster MySUPER--secret-0123passw0rd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2022-07/2022-07-05.md",
+                "file": "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,12 +103,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2022-07/2022-07-05.md"
+                "file": "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "bc5e50a2b481da93",
@@ -129,6 +130,7 @@
   },
   "active": "bebdfed292ee0679",
   "lastOpenFiles": [
+    "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md",
     "DailyNotes/2022-07/2022-07-05.md",
     "DailyNotes/2022-02/2022-02-09.md",
     "DailyNotes/2022-02/2022-02-08.md",
@@ -137,7 +139,6 @@
     "DailyNotes/2022-01/2022-01-21.md",
     "DailyNotes/2022-01/2022-01-19.md",
     "DailyNotes/2022-01/2022-01-18.md",
-    "DailyNotes/2022-01/2022-01-17.md",
-    "DailyNotes/2022-01/2022-01-14.md"
+    "DailyNotes/2022-01/2022-01-17.md"
   ]
 }
