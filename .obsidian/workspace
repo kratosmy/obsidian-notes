@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffaacf444dff0b66",
+        "id": "2fa50fa1b5d1d2f9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DailyNotes/2022-07/2022-07-06.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2022-07/2022-07-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +79,11 @@
             "id": "a21e77e6ff3d5fac",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/remember-cursor-position/cursor-positions.json",
+                "staged": false
+              }
             }
           },
           {
@@ -101,13 +99,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DailyNotes/2022-07/2022-07-06.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "bc5e50a2b481da93",
@@ -127,17 +123,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ffaacf444dff0b66",
+  "active": "a76443e7770abd41",
   "lastOpenFiles": [
+    "DailyNotes/2022-07/2022-07-18.md",
+    "DailyNotes/2022-07/2022-07-25.md",
+    "Templates/日志模版.md",
     "DailyNotes/2022-07/2022-07-06.md",
     "DailyNotes/2022-07-07.md",
     "DailyNotes/2022-07/2022-07-05.md",
-    "Templates/日志模版.md",
     "Templates/博客模版.md",
     "Untitled.md",
     "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md",
-    "DailyNotes/2022-02/2022-02-09.md",
-    "DailyNotes/2022-02/2022-02-08.md",
-    "DailyNotes/2022-01/2022-01-24.md"
+    "DailyNotes/2022-02/2022-02-09.md"
   ]
 }
