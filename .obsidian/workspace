@@ -7,8 +7,12 @@
         "id": "2fa50fa1b5d1d2f9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DailyNotes/2022-07/2022-07-25.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DailyNotes/2022-07/2022-07-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +104,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DailyNotes/2022-07/2022-07-25.md"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "bc5e50a2b481da93",
@@ -123,7 +130,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a76443e7770abd41",
+  "active": "a21e77e6ff3d5fac",
   "lastOpenFiles": [
     "DailyNotes/2022-07/2022-07-18.md",
     "DailyNotes/2022-07/2022-07-25.md",
