@@ -110,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bc5e50a2b481da93",
@@ -128,9 +128,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
-  "active": "a21e77e6ff3d5fac",
+  "active": "ac1523865c0aa62a",
   "lastOpenFiles": [
     "DailyNotes/2022-07/2022-07-18.md",
     "DailyNotes/2022-07/2022-07-25.md",
