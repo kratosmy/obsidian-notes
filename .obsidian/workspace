@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fa50fa1b5d1d2f9",
+        "id": "cad1242d02b8f8ed",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DailyNotes/2022-07/2022-07-25.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2022-07/2022-07-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DailyNotes/2022-07/2022-07-25.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -130,17 +123,17 @@
     "direction": "horizontal",
     "width": 323.5
   },
-  "active": "ac1523865c0aa62a",
+  "active": "cad1242d02b8f8ed",
   "lastOpenFiles": [
-    "DailyNotes/2022-07/2022-07-18.md",
+    "Day Planners/Day Planner-20220708.md",
+    "Day Planners/Day Planner-20220906.md",
+    "Day Planners/Day Planner-20220823.md",
+    "DailyNotes/2022-09-06.md",
     "DailyNotes/2022-07/2022-07-25.md",
+    "DailyNotes/2022-07/2022-07-18.md",
     "Templates/日志模版.md",
     "DailyNotes/2022-07/2022-07-06.md",
     "DailyNotes/2022-07-07.md",
-    "DailyNotes/2022-07/2022-07-05.md",
-    "Templates/博客模版.md",
-    "Untitled.md",
-    "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md",
-    "DailyNotes/2022-02/2022-02-09.md"
+    "DailyNotes/2022-07/2022-07-05.md"
   ]
 }
