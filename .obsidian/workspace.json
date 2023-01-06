@@ -23,14 +23,24 @@
             "id": "494bea23f0c6591c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "DailyNotes/2022-07/2022-07-25.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "73728b75466c167b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,12 +171,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "494bea23f0c6591c",
+  "active": "7b2102fccdc95c55",
   "lastOpenFiles": [
+    "DailyNotes/2022-07/2022-07-25.md",
     "DailyNotes/2022-07/2022-07-06.md",
     "DailyNotes/2022-07/2022-07-05.md",
     "DailyNotes/2022-07/2022-07-18.md",
-    "DailyNotes/2022-07/2022-07-25.md",
     "Day Planners/Day Planner-20220708.md",
     "Day Planners/Day Planner-20220906.md",
     "Day Planners/Day Planner-20220823.md",
