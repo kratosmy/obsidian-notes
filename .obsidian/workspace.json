@@ -30,17 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "73728b75466c167b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2022-07/2022-07-18.md",
+                "file": "DailyNotes/2022-07/2022-07-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2022-07/2022-07-18.md"
+                "file": "DailyNotes/2022-07/2022-07-25.md"
               }
             }
           }
@@ -171,12 +163,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "7b2102fccdc95c55",
+  "active": "494bea23f0c6591c",
   "lastOpenFiles": [
+    "DailyNotes/2022-07/2022-07-18.md",
     "DailyNotes/2022-07/2022-07-25.md",
     "DailyNotes/2022-07/2022-07-06.md",
     "DailyNotes/2022-07/2022-07-05.md",
-    "DailyNotes/2022-07/2022-07-18.md",
     "Day Planners/Day Planner-20220708.md",
     "Day Planners/Day Planner-20220906.md",
     "Day Planners/Day Planner-20220823.md",
