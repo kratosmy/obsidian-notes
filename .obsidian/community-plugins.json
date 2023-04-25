@@ -18,12 +18,12 @@
   "remember-cursor-position",
   "workspaces-plus",
   "obsidian-day-planner",
-  "obsidian-dynamic-highlights",
   "obsidian-view-mode-by-frontmatter",
   "dataview",
   "obsidian-tabs",
   "obsidian-hover-editor",
   "templater-obsidian",
   "quickadd",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-dynamic-highlights"
 ]
