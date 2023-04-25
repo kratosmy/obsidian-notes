@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiGitRepositoryLine",
-      "RiEvernoteFill",
-      "FasDatabase",
+      "RiArchiveDrawerLine",
       "FasBlog",
-      "RiArchiveDrawerLine"
+      "FasDatabase",
+      "RiEvernoteFill",
+      "FasBookmark"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,7 +25,7 @@
   "Assets/Images": "RiImageLine",
   "Blog Posts": "RiArticleLine",
   "Boards": "FasChalkboard",
-  "DailyNotes": "RiEvernoteFill",
   "Day Planners": "RiCheckboxMultipleBlankLine",
-  "Templates": "RiGitRepositoryLine"
+  "Templates": "RiGitRepositoryLine",
+  "Daily Notes": "RiEvernoteFill"
 }
