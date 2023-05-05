@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "思考是一种特权",
+      "path": "DailyNotes/思考是一种特权.md"
+    },
+    {
+      "basename": "日志模版",
+      "path": "Templates/日志模版.md"
+    },
+    {
+      "basename": "博客模版",
+      "path": "Templates/博客模版.md"
+    },
+    {
       "basename": "2023-04-18-凤凰架构",
-      "path": "Daily Notes/System Design/2023-04-18-凤凰架构.md"
+      "path": "DailyNotes/System Design/2023-04-18-凤凰架构.md"
     },
     {
       "basename": "2020-10-01-Core-Java-Notes(Advanced Features)",
@@ -41,24 +53,16 @@
       "path": "Blog Posts/Archived/Computer Networks/2020-12-10-Checksum-Notes.md"
     },
     {
-      "basename": "日志模版",
-      "path": "Templates/日志模版.md"
-    },
-    {
       "basename": "2022-07-05",
-      "path": "Daily Notes/CSAPP/2022-07-05.md"
-    },
-    {
-      "basename": "博客模版",
-      "path": "Templates/博客模版.md"
+      "path": "DailyNotes/CSAPP/2022-07-05.md"
     },
     {
       "basename": "2022-04-15",
-      "path": "Daily Notes/Tencent/2022-04/2022-04-15.md"
+      "path": "DailyNotes/Tencent/2022-04/2022-04-15.md"
     },
     {
       "basename": "2022-07-25",
-      "path": "Daily Notes/CSAPP/2022-07-25.md"
+      "path": "DailyNotes/CSAPP/2022-07-25.md"
     },
     {
       "basename": "2020-09-21-Cryptography-Notes1",
@@ -66,47 +70,47 @@
     },
     {
       "basename": "2022-07-18",
-      "path": "Daily Notes/CSAPP/2022-07-18.md"
+      "path": "DailyNotes/CSAPP/2022-07-18.md"
     },
     {
       "basename": "2022-07-06",
-      "path": "Daily Notes/CSAPP/2022-07-06.md"
+      "path": "DailyNotes/CSAPP/2022-07-06.md"
     },
     {
       "basename": "2022-04-13",
-      "path": "Daily Notes/Tencent/2022-04/2022-04-13.md"
+      "path": "DailyNotes/Tencent/2022-04/2022-04-13.md"
     },
     {
       "basename": "2022-01-19",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-19.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-19.md"
     },
     {
       "basename": "2022-01-14",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-14.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-14.md"
     },
     {
       "basename": "2022-01-05",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-05.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-05.md"
     },
     {
       "basename": "2022-02-25",
-      "path": "Daily Notes/Tencent/2022-02/2022-02-25.md"
+      "path": "DailyNotes/Tencent/2022-02/2022-02-25.md"
     },
     {
       "basename": "2022-02-15",
-      "path": "Daily Notes/Tencent/2022-02/2022-02-15.md"
+      "path": "DailyNotes/Tencent/2022-02/2022-02-15.md"
     },
     {
       "basename": "2022-02-10",
-      "path": "Daily Notes/Tencent/2022-02/2022-02-10.md"
+      "path": "DailyNotes/Tencent/2022-02/2022-02-10.md"
     },
     {
       "basename": "2022-03-15",
-      "path": "Daily Notes/Tencent/2022-03/2022-03-15.md"
+      "path": "DailyNotes/Tencent/2022-03/2022-03-15.md"
     },
     {
       "basename": "2022-04-11",
-      "path": "Daily Notes/Tencent/2022-04/2022-04-11.md"
+      "path": "DailyNotes/Tencent/2022-04/2022-04-11.md"
     },
     {
       "basename": "Day Planner-20230418",
@@ -118,63 +122,63 @@
     },
     {
       "basename": "2022-02-09",
-      "path": "Daily Notes/Tencent/2022-02/2022-02-09.md"
+      "path": "DailyNotes/Tencent/2022-02/2022-02-09.md"
     },
     {
       "basename": "2022-02-08",
-      "path": "Daily Notes/Tencent/2022-02/2022-02-08.md"
+      "path": "DailyNotes/Tencent/2022-02/2022-02-08.md"
     },
     {
       "basename": "2022-01-24",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-24.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-24.md"
     },
     {
       "basename": "2022-01-23",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-23.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-23.md"
     },
     {
       "basename": "2022-01-21",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-21.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-21.md"
     },
     {
       "basename": "2022-01-18",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-18.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-18.md"
     },
     {
       "basename": "2022-01-17",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-17.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-17.md"
     },
     {
       "basename": "2022-01-12",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-12.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-12.md"
     },
     {
       "basename": "2022-01-11",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-11.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-11.md"
     },
     {
       "basename": "2022-01-06",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-06.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-06.md"
     },
     {
       "basename": "2022-01-10",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-10.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-10.md"
     },
     {
       "basename": "2022-01-02",
-      "path": "Daily Notes/Tencent/2022-01/2022-01-02.md"
+      "path": "DailyNotes/Tencent/2022-01/2022-01-02.md"
     },
     {
       "basename": "2022-03-16",
-      "path": "Daily Notes/Tencent/2022-03/2022-03-16.md"
+      "path": "DailyNotes/Tencent/2022-03/2022-03-16.md"
     },
     {
       "basename": "2022-03-22",
-      "path": "Daily Notes/Tencent/2022-03/2022-03-22.md"
+      "path": "DailyNotes/Tencent/2022-03/2022-03-22.md"
     },
     {
       "basename": "2022-03-14",
-      "path": "Daily Notes/Tencent/2022-03/2022-03-14.md"
+      "path": "DailyNotes/Tencent/2022-03/2022-03-14.md"
     },
     {
       "basename": "2020-12-11-JVM",
@@ -182,11 +186,11 @@
     },
     {
       "basename": "2022-03-04",
-      "path": "Daily Notes/Tencent/2022-03/2022-03-04.md"
+      "path": "DailyNotes/Tencent/2022-03/2022-03-04.md"
     },
     {
       "basename": "2022-03-02",
-      "path": "Daily Notes/Tencent/2022-03/2022-03-02.md"
+      "path": "DailyNotes/Tencent/2022-03/2022-03-02.md"
     },
     {
       "basename": "2020-12-10-Homework3",
@@ -195,10 +199,6 @@
     {
       "basename": "2020-11-07-CMSC5741_Review",
       "path": "Blog Posts/Archived/Hadoop/2020-11-07-CMSC5741_Review.md"
-    },
-    {
-      "basename": "2020-10-09-WU_Yan_Homework1_v1",
-      "path": "Blog Posts/Archived/Hadoop/2020-10-09-WU_Yan_Homework1_v1.md"
     }
   ],
   "omittedPaths": [],

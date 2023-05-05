@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "81d2e7be46c25f19",
+        "id": "d17743cfbc4821d7",
         "type": "tabs",
         "children": [
           {
-            "id": "a65b25ed8ae5b955",
+            "id": "8d47c8e2df0f268e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/System Design/2023-04-18-凤凰架构.md",
+                "file": "DailyNotes/思考是一种特权.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/System Design/2023-04-18-凤凰架构.md",
+                "file": "DailyNotes/思考是一种特权.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,11 +113,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/System Design/2023-04-18-凤凰架构.md"
+                "file": "DailyNotes/思考是一种特权.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "bc5e50a2b481da93",
@@ -149,11 +150,16 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "666544032ab1971c",
+  "active": "8d47c8e2df0f268e",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230427.md",
+    "DailyNotes/思考是一种特权.md",
+    "Templates/日志模版.md",
+    "Templates/博客模版.md",
+    "DailyNotes",
+    "DailyNotes/System Design/2023-04-18-凤凰架构.md",
     "Day Planners/Day Planner-20230426.md",
     "Blog Posts/Archived/CoreJava/2020-10-01-Core-Java-Notes(Advanced Features).md",
-    "Daily Notes/System Design/2023-04-18-凤凰架构.md",
     "Blog Posts/Archived/JVM/2021-01-01-JVM.md",
     "Blog Posts/Archived/LeetCode/2021-02-23-LeetCode回顾.md",
     "Blog Posts/Archived/LeetCode/2021-02-23-LeetCode鍥為【.md",
@@ -163,19 +169,17 @@
     "Blog Posts/Archived/CoreJava/2020-09-02-Core-Java-Notes(Advanced Features).md",
     "Blog Posts/Archived/CoreJava/2020-08-27-Core-Java-Notes(Advanced Features).md",
     "Blog Posts/Archived/Computer Networks/2020-12-10-Checksum-Notes.md",
-    "Templates/日志模版.md",
-    "Daily Notes/CSAPP/2022-07-05.md",
-    "Templates/博客模版.md",
+    "DailyNotes/CSAPP/2022-07-05.md",
     "Learning",
-    "Daily Notes/Tencent",
-    "Daily Notes/System Design",
-    "Daily Notes/Tencent/2022-04/2022-04-15.md",
-    "Daily Notes/CSAPP/2022-07-25.md",
+    "DailyNotes/Tencent",
+    "DailyNotes/System Design",
+    "DailyNotes/Tencent/2022-04/2022-04-15.md",
+    "DailyNotes/CSAPP/2022-07-25.md",
     "Blog Posts/Archived/Cryptography/2020-09-21-Cryptography-Notes1.md",
     "Day Planners/Day Planner-20230425.md",
-    "Daily Notes/CSAPP/2022-07-18.md",
-    "Daily Notes/CSAPP/2022-07-06.md",
-    "Daily Notes/Tencent/2022-04/2022-04-13.md",
-    "Daily Notes/Tencent/2022-01/2022-01-19.md"
+    "DailyNotes/CSAPP/2022-07-18.md",
+    "DailyNotes/CSAPP/2022-07-06.md",
+    "DailyNotes/Tencent/2022-04/2022-04-13.md",
+    "DailyNotes/Tencent/2022-01/2022-01-19.md"
   ]
 }

@@ -27,5 +27,5 @@
   "Boards": "FasChalkboard",
   "Day Planners": "RiCheckboxMultipleBlankLine",
   "Templates": "RiGitRepositoryLine",
-  "Daily Notes": "RiEvernoteFill"
+  "DailyNotes": "RiEvernoteFill"
 }
