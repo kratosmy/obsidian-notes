@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "思考是一种特权",
-      "path": "DailyNotes/思考是一种特权.md"
+      "basename": "2023-05-05-单体架构",
+      "path": "DailyNotes/System Design/2023-05-05-单体架构.md"
+    },
+    {
+      "basename": "2023-04-18-凤凰架构",
+      "path": "DailyNotes/System Design/2023-04-18-凤凰架构.md"
     },
     {
       "basename": "日志模版",
@@ -11,10 +15,6 @@
     {
       "basename": "博客模版",
       "path": "Templates/博客模版.md"
-    },
-    {
-      "basename": "2023-04-18-凤凰架构",
-      "path": "DailyNotes/System Design/2023-04-18-凤凰架构.md"
     },
     {
       "basename": "2020-10-01-Core-Java-Notes(Advanced Features)",
