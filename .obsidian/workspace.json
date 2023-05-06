@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/System Design/2023-05-05-单体架构.md",
+                "file": "DailyNotes/2023-05-06-原始分布式.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,13 +61,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sentinel auth-pass mymaster MySUPER--secret-0123passw0rd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "39da41cda4b91496",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -90,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/System Design/2023-05-05-单体架构.md",
+                "file": "DailyNotes/2023-05-06-原始分布式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/System Design/2023-05-05-单体架构.md"
+                "file": "DailyNotes/2023-05-06-原始分布式.md"
               }
             }
           }
@@ -166,7 +174,9 @@
   "active": "14d3d3267d98eda3",
   "lastOpenFiles": [
     "DailyNotes/System Design/2023-04-18-凤凰架构.md",
+    "DailyNotes/2023-05-06-原始分布式.md",
     "DailyNotes/System Design/2023-05-05-单体架构.md",
+    "Day Planners/Day Planner-20230506.md",
     "DailyNotes/思考是一种特权.md",
     "Day Planners/Day Planner-20230505.md",
     "Day Planners/Day Planner-20230427.md",
@@ -192,8 +202,6 @@
     "DailyNotes/CSAPP/2022-07-25.md",
     "Blog Posts/Archived/Cryptography/2020-09-21-Cryptography-Notes1.md",
     "Day Planners/Day Planner-20230425.md",
-    "DailyNotes/CSAPP/2022-07-18.md",
-    "DailyNotes/CSAPP/2022-07-06.md",
-    "DailyNotes/Tencent/2022-04/2022-04-13.md"
+    "DailyNotes/CSAPP/2022-07-18.md"
   ]
 }

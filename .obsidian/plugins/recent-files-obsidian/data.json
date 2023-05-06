@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-05-单体架构",
-      "path": "DailyNotes/System Design/2023-05-05-单体架构.md"
+      "basename": "2023-05-06-原始分布式",
+      "path": "DailyNotes/2023-05-06-原始分布式.md"
     },
     {
       "basename": "2023-04-18-凤凰架构",
       "path": "DailyNotes/System Design/2023-04-18-凤凰架构.md"
+    },
+    {
+      "basename": "2023-05-05-单体架构",
+      "path": "DailyNotes/System Design/2023-05-05-单体架构.md"
     },
     {
       "basename": "日志模版",
@@ -195,10 +199,6 @@
     {
       "basename": "2020-12-10-Homework3",
       "path": "Blog Posts/Archived/Hadoop/2020-12-10-Homework3.md"
-    },
-    {
-      "basename": "2020-11-07-CMSC5741_Review",
-      "path": "Blog Posts/Archived/Hadoop/2020-11-07-CMSC5741_Review.md"
     }
   ],
   "omittedPaths": [],
