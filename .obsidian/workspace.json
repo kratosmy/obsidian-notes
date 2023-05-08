@@ -162,8 +162,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -173,6 +171,7 @@
   },
   "active": "14d3d3267d98eda3",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230507.md",
     "DailyNotes/System Design/2023-04-18-凤凰架构.md",
     "DailyNotes/2023-05-06-原始分布式.md",
     "DailyNotes/System Design/2023-05-05-单体架构.md",
@@ -201,7 +200,6 @@
     "DailyNotes/Tencent/2022-04/2022-04-15.md",
     "DailyNotes/CSAPP/2022-07-25.md",
     "Blog Posts/Archived/Cryptography/2020-09-21-Cryptography-Notes1.md",
-    "Day Planners/Day Planner-20230425.md",
-    "DailyNotes/CSAPP/2022-07-18.md"
+    "Day Planners/Day Planner-20230425.md"
   ]
 }
