@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-09-网络基础",
+      "path": "DailyNotes/计算机基础/2023-05-09-网络基础.md"
+    },
+    {
       "basename": "2023-05-06-原始分布式",
       "path": "DailyNotes/系统设计/2023-05-06-原始分布式.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-03-02",
       "path": "DailyNotes/Tencent/2022-03/2022-03-02.md"
-    },
-    {
-      "basename": "2020-12-10-Homework3",
-      "path": "Blog Posts/Archived/Hadoop/2020-12-10-Homework3.md"
     }
   ],
   "omittedPaths": [],

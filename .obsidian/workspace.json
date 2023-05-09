@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/系统设计/2023-05-06-原始分布式.md",
+                "file": "DailyNotes/计算机基础/2023-05-09-网络基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/系统设计/2023-05-06-原始分布式.md",
+                "file": "DailyNotes/计算机基础/2023-05-09-网络基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/系统设计/2023-05-06-原始分布式.md"
+                "file": "DailyNotes/计算机基础/2023-05-09-网络基础.md"
               }
             }
           }
@@ -173,11 +173,12 @@
   },
   "active": "14d3d3267d98eda3",
   "lastOpenFiles": [
+    "DailyNotes/系统设计/2023-05-06-原始分布式.md",
+    "DailyNotes/计算机基础/2023-05-09-网络基础.md",
     "DailyNotes/系统设计/2023-04-18-凤凰架构.md",
     "DailyNotes/计算机基础",
     "Day Planners/Day Planner-20230509.md",
     "Day Planners/Day Planner-20230507.md",
-    "DailyNotes/系统设计/2023-05-06-原始分布式.md",
     "DailyNotes/系统设计/2023-05-05-单体架构.md",
     "Day Planners/Day Planner-20230506.md",
     "DailyNotes/思考是一种特权.md",
