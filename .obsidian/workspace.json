@@ -168,11 +168,19 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "14d3d3267d98eda3",
   "lastOpenFiles": [
+    "_debug_remotely_save/log_hist_exported_on_1688531323858.md",
+    "_debug_remotely_save/log_hist_exported_on_1688531075312.md",
+    "_debug_remotely_save/log_hist_exported_on_1688531008265.md",
+    "_debug_remotely_save/log_hist_exported_on_1688530992417.md",
+    "_debug_remotely_save/log_hist_exported_on_1688530968368.md",
+    "_debug_remotely_save",
+    "Day Planners/Day Planner-20230705.md",
     "Day Planners/Day Planner-20230612.md",
     "Day Planners/Day Planner-20230523.md",
     "Day Planners/Day Planner-20230522.md",
@@ -194,13 +202,7 @@
     "Day Planners/Day Planner-20230505.md",
     "Day Planners/Day Planner-20230427.md",
     "Templates/日志模版.md",
-    "Templates/博客模版.md",
     "DailyNotes",
-    "Day Planners/Day Planner-20230426.md",
-    "Blog Posts/Archived/CoreJava/2020-10-01-Core-Java-Notes(Advanced Features).md",
-    "Blog Posts/Archived/JVM/2021-01-01-JVM.md",
-    "Blog Posts/Archived/LeetCode/2021-02-23-LeetCode回顾.md",
-    "Blog Posts/Archived/LeetCode/2021-02-23-LeetCode鍥為【.md",
     "Learning",
     "DailyNotes/Tencent",
     "DailyNotes/系统设计"
