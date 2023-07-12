@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b546c0c83703ea55",
+        "id": "ecca94af11b10399",
         "type": "tabs",
         "children": [
           {
-            "id": "a03e2cce3bff4a70",
+            "id": "d75efd4069a32087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/系统设计/2023-04-18-凤凰架构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14d3d3267d98eda3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/计算机基础/2023-05-09-网络基础.md",
+                "file": "DailyNotes/计算机基础/网络基础.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/计算机基础/2023-05-09-网络基础.md",
+                "file": "DailyNotes/计算机基础/网络基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/计算机基础/2023-05-09-网络基础.md"
+                "file": "DailyNotes/计算机基础/网络基础.md"
               }
             }
           }
@@ -157,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,36 +160,37 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "14d3d3267d98eda3",
+  "active": "d75efd4069a32087",
   "lastOpenFiles": [
+    "Templates/日志模版.md",
+    "Templates/博客模版.md",
+    "Day Planners/Day Planner-20230710.md",
+    "Day Planners",
+    "Day Planners/Day Planner-20230510.md",
+    "Day Planners/Day Planner-20230426.md",
+    "Day Planners/Day Planner-20230419.md",
+    "Day Planners/Day Planner-20230418.md",
+    "Day Planners/Day Planner-20230506.md",
+    "Day Planners/Day Planner-20230517.md",
+    "Day Planners/Day Planner-20230518.md",
+    "Day Planners/Day Planner-20230522.md",
+    "Day Planners/Day Planner-20230523.md",
+    "Day Planners/Day Planner-20230612.md",
+    "Day Planners/Day Planner-20230705.md",
+    "Day Planners/Day Planner-20230509.md",
+    "DailyNotes/计算机基础/网络基础.md",
+    "DailyNotes/系统设计/凤凰架构.md",
+    "DailyNotes/CSAPP/2022-07-05.md",
+    "DailyNotes/系统设计/2023-05-06-原始分布式.md",
+    "DailyNotes/系统设计/2023-05-05-单体架构.md",
+    "DailyNotes/计算机基础/2023-07-10-.md",
     "_debug_remotely_save/log_hist_exported_on_1688531323858.md",
     "_debug_remotely_save/log_hist_exported_on_1688531075312.md",
     "_debug_remotely_save/log_hist_exported_on_1688531008265.md",
     "_debug_remotely_save/log_hist_exported_on_1688530992417.md",
     "_debug_remotely_save/log_hist_exported_on_1688530968368.md",
     "_debug_remotely_save",
-    "Day Planners/Day Planner-20230705.md",
-    "Day Planners/Day Planner-20230612.md",
-    "Day Planners/Day Planner-20230523.md",
-    "Day Planners/Day Planner-20230522.md",
-    "Day Planners/Day Planner-20230518.md",
-    "Day Planners/Day Planner-20230517.md",
-    "Day Planners/Day Planner-20230516.md",
-    "Day Planners/Day Planner-20230515.md",
-    "Day Planners/Day Planner-20230511.md",
-    "Day Planners/Day Planner-20230510.md",
-    "DailyNotes/系统设计/2023-05-06-原始分布式.md",
-    "DailyNotes/计算机基础/2023-05-09-网络基础.md",
-    "DailyNotes/系统设计/2023-04-18-凤凰架构.md",
     "DailyNotes/计算机基础",
-    "Day Planners/Day Planner-20230509.md",
-    "Day Planners/Day Planner-20230507.md",
-    "DailyNotes/系统设计/2023-05-05-单体架构.md",
-    "Day Planners/Day Planner-20230506.md",
-    "DailyNotes/思考是一种特权.md",
-    "Day Planners/Day Planner-20230505.md",
-    "Day Planners/Day Planner-20230427.md",
-    "Templates/日志模版.md",
     "DailyNotes",
     "Learning",
     "DailyNotes/Tencent",

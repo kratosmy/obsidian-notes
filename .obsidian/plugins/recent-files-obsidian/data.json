@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-09-网络基础",
-      "path": "DailyNotes/计算机基础/2023-05-09-网络基础.md"
-    },
-    {
-      "basename": "2023-05-06-原始分布式",
-      "path": "DailyNotes/系统设计/2023-05-06-原始分布式.md"
-    },
-    {
-      "basename": "2023-04-18-凤凰架构",
-      "path": "DailyNotes/系统设计/2023-04-18-凤凰架构.md"
-    },
-    {
-      "basename": "2023-05-05-单体架构",
-      "path": "DailyNotes/系统设计/2023-05-05-单体架构.md"
+      "basename": "网络基础",
+      "path": "DailyNotes/计算机基础/网络基础.md"
     },
     {
       "basename": "日志模版",
@@ -23,6 +11,14 @@
     {
       "basename": "博客模版",
       "path": "Templates/博客模版.md"
+    },
+    {
+      "basename": "凤凰架构",
+      "path": "DailyNotes/系统设计/凤凰架构.md"
+    },
+    {
+      "basename": "2022-07-05",
+      "path": "DailyNotes/CSAPP/2022-07-05.md"
     },
     {
       "basename": "2020-10-01-Core-Java-Notes(Advanced Features)",
@@ -59,10 +55,6 @@
     {
       "basename": "2020-12-10-Checksum-Notes",
       "path": "Blog Posts/Archived/Computer Networks/2020-12-10-Checksum-Notes.md"
-    },
-    {
-      "basename": "2022-07-05",
-      "path": "DailyNotes/CSAPP/2022-07-05.md"
     },
     {
       "basename": "2022-04-15",
@@ -121,10 +113,6 @@
       "path": "DailyNotes/Tencent/2022-04/2022-04-11.md"
     },
     {
-      "basename": "Day Planner-20230418",
-      "path": "Day Planners/Day Planner-20230418.md"
-    },
-    {
       "basename": "2021-01-22-Redis哨兵模式",
       "path": "Blog Posts/Archived/Redis/2021-01-22-Redis哨兵模式.md"
     },
@@ -159,46 +147,6 @@
     {
       "basename": "2022-01-12",
       "path": "DailyNotes/Tencent/2022-01/2022-01-12.md"
-    },
-    {
-      "basename": "2022-01-11",
-      "path": "DailyNotes/Tencent/2022-01/2022-01-11.md"
-    },
-    {
-      "basename": "2022-01-06",
-      "path": "DailyNotes/Tencent/2022-01/2022-01-06.md"
-    },
-    {
-      "basename": "2022-01-10",
-      "path": "DailyNotes/Tencent/2022-01/2022-01-10.md"
-    },
-    {
-      "basename": "2022-01-02",
-      "path": "DailyNotes/Tencent/2022-01/2022-01-02.md"
-    },
-    {
-      "basename": "2022-03-16",
-      "path": "DailyNotes/Tencent/2022-03/2022-03-16.md"
-    },
-    {
-      "basename": "2022-03-22",
-      "path": "DailyNotes/Tencent/2022-03/2022-03-22.md"
-    },
-    {
-      "basename": "2022-03-14",
-      "path": "DailyNotes/Tencent/2022-03/2022-03-14.md"
-    },
-    {
-      "basename": "2020-12-11-JVM",
-      "path": "Blog Posts/Archived/JVM/2020-12-11-JVM.md"
-    },
-    {
-      "basename": "2022-03-04",
-      "path": "DailyNotes/Tencent/2022-03/2022-03-04.md"
-    },
-    {
-      "basename": "2022-03-02",
-      "path": "DailyNotes/Tencent/2022-03/2022-03-02.md"
     }
   ],
   "omittedPaths": [],
