@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter.md"
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md"
               }
             }
           }
@@ -162,12 +162,14 @@
   },
   "active": "d75efd4069a32087",
   "lastOpenFiles": [
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-67.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter",
     "Assets/Images/Pasted image 20230715000145.png",
     "Assets/Images/Pasted image 20230714235524.png",
     "Assets/Images/Pasted image 20230714235422.png",
     "Assets/Images/Pasted image 20230714235208.png",
     "DailyNotes/系统设计/凤凰架构.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter.md",
     "DailyNotes/计算机基础/网络基础.md",
     "Templates/日志模版.md",
     "Templates/博客模版.md",
