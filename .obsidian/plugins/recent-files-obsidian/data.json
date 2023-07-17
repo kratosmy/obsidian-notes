@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ByteByteGo Newsletter",
+      "path": "DailyNotes/系统设计/ByteByteGo Newsletter.md"
+    },
+    {
+      "basename": "凤凰架构",
+      "path": "DailyNotes/系统设计/凤凰架构.md"
+    },
+    {
       "basename": "网络基础",
       "path": "DailyNotes/计算机基础/网络基础.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "博客模版",
       "path": "Templates/博客模版.md"
-    },
-    {
-      "basename": "凤凰架构",
-      "path": "DailyNotes/系统设计/凤凰架构.md"
     },
     {
       "basename": "2022-07-05",

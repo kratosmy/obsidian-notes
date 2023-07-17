@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/计算机基础/网络基础.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/计算机基础/网络基础.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/计算机基础/网络基础.md"
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter.md"
               }
             }
           }
@@ -162,6 +162,13 @@
   },
   "active": "d75efd4069a32087",
   "lastOpenFiles": [
+    "Assets/Images/Pasted image 20230715000145.png",
+    "Assets/Images/Pasted image 20230714235524.png",
+    "Assets/Images/Pasted image 20230714235422.png",
+    "Assets/Images/Pasted image 20230714235208.png",
+    "DailyNotes/系统设计/凤凰架构.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter.md",
+    "DailyNotes/计算机基础/网络基础.md",
     "Templates/日志模版.md",
     "Templates/博客模版.md",
     "Day Planners/Day Planner-20230710.md",
@@ -178,8 +185,6 @@
     "Day Planners/Day Planner-20230612.md",
     "Day Planners/Day Planner-20230705.md",
     "Day Planners/Day Planner-20230509.md",
-    "DailyNotes/计算机基础/网络基础.md",
-    "DailyNotes/系统设计/凤凰架构.md",
     "DailyNotes/CSAPP/2022-07-05.md",
     "DailyNotes/系统设计/2023-05-06-原始分布式.md",
     "DailyNotes/系统设计/2023-05-05-单体架构.md",
@@ -187,8 +192,6 @@
     "_debug_remotely_save/log_hist_exported_on_1688531323858.md",
     "_debug_remotely_save/log_hist_exported_on_1688531075312.md",
     "_debug_remotely_save/log_hist_exported_on_1688531008265.md",
-    "_debug_remotely_save/log_hist_exported_on_1688530992417.md",
-    "_debug_remotely_save/log_hist_exported_on_1688530968368.md",
     "_debug_remotely_save",
     "DailyNotes/计算机基础",
     "DailyNotes",
