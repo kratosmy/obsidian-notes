@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md"
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md"
               }
             }
           }
@@ -162,10 +162,13 @@
   },
   "active": "d75efd4069a32087",
   "lastOpenFiles": [
+    "Assets/Images/Pasted image 20230718225150.png",
+    "Assets/Images/Pasted image 20230718224942.png",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-67.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
     "Assets/Images/Pasted image 20230718000144.png",
     "Assets/Images/Pasted image 20230717232733.png",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-67.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter",
     "Assets/Images/Pasted image 20230715000145.png",
     "Assets/Images/Pasted image 20230714235524.png",
@@ -194,7 +197,6 @@
     "DailyNotes/系统设计/2023-05-05-单体架构.md",
     "DailyNotes/计算机基础/2023-07-10-.md",
     "_debug_remotely_save/log_hist_exported_on_1688531323858.md",
-    "_debug_remotely_save/log_hist_exported_on_1688531075312.md",
     "_debug_remotely_save",
     "DailyNotes/计算机基础",
     "DailyNotes",
