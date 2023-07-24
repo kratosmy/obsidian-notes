@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ecca94af11b10399",
+        "id": "faf311ed4de223ea",
         "type": "tabs",
         "children": [
           {
-            "id": "d75efd4069a32087",
+            "id": "82531df2e84121c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP 65.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP 65.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +121,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md"
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP 65.md"
               }
+            }
+          },
+          {
+            "id": "2bb5cbd1d0396e32",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -144,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,13 +167,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d75efd4069a32087",
+  "active": "82531df2e84121c7",
   "lastOpenFiles": [
+    "Assets/Images/Pasted image 20230719225032.png",
+    "Templates/日志模版.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP 65.md",
+    "Templates/博客模版.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
     "Assets/Images/Pasted image 20230718235632.png",
     "Assets/Images/Pasted image 20230718225150.png",
     "Assets/Images/Pasted image 20230718224942.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-67.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
     "Assets/Images/Pasted image 20230718000144.png",
     "Assets/Images/Pasted image 20230717232733.png",
@@ -177,8 +188,6 @@
     "Assets/Images/Pasted image 20230714235208.png",
     "DailyNotes/系统设计/凤凰架构.md",
     "DailyNotes/计算机基础/网络基础.md",
-    "Templates/日志模版.md",
-    "Templates/博客模版.md",
     "Day Planners/Day Planner-20230710.md",
     "Day Planners",
     "Day Planners/Day Planner-20230510.md",
@@ -197,7 +206,6 @@
     "DailyNotes/系统设计/2023-05-06-原始分布式.md",
     "DailyNotes/系统设计/2023-05-05-单体架构.md",
     "DailyNotes/计算机基础/2023-07-10-.md",
-    "_debug_remotely_save/log_hist_exported_on_1688531323858.md",
     "_debug_remotely_save",
     "DailyNotes/计算机基础",
     "DailyNotes",
