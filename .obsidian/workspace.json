@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "faf311ed4de223ea",
+        "id": "e7f4a55e32abf473",
         "type": "tabs",
         "children": [
           {
-            "id": "82531df2e84121c7",
+            "id": "03c22562286ae92f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP 65.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-64.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP 65.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-64.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP 65.md"
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-64.md"
               }
             }
           },
@@ -167,25 +167,27 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "82531df2e84121c7",
+  "active": "03c22562286ae92f",
   "lastOpenFiles": [
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-65.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-64.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-67.md",
+    "Assets/Images/Pasted image 20230724225817.png",
+    "DailyNotes/Tencent/2022-01/2022-01-02.md",
     "Assets/Images/Pasted image 20230719225032.png",
     "Templates/日志模版.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP 65.md",
     "Templates/博客模版.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
     "Assets/Images/Pasted image 20230718235632.png",
     "Assets/Images/Pasted image 20230718225150.png",
     "Assets/Images/Pasted image 20230718224942.png",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-67.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
     "Assets/Images/Pasted image 20230718000144.png",
     "Assets/Images/Pasted image 20230717232733.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter",
     "Assets/Images/Pasted image 20230715000145.png",
     "Assets/Images/Pasted image 20230714235524.png",
     "Assets/Images/Pasted image 20230714235422.png",
-    "Assets/Images/Pasted image 20230714235208.png",
     "DailyNotes/系统设计/凤凰架构.md",
     "DailyNotes/计算机基础/网络基础.md",
     "Day Planners/Day Planner-20230710.md",
@@ -204,8 +206,6 @@
     "Day Planners/Day Planner-20230509.md",
     "DailyNotes/CSAPP/2022-07-05.md",
     "DailyNotes/系统设计/2023-05-06-原始分布式.md",
-    "DailyNotes/系统设计/2023-05-05-单体架构.md",
-    "DailyNotes/计算机基础/2023-07-10-.md",
     "_debug_remotely_save",
     "DailyNotes/计算机基础",
     "DailyNotes",
