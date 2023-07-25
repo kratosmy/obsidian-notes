@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-64.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-63.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-64.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-63.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-64.md"
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-63.md"
               }
             }
           },
@@ -169,8 +169,11 @@
   },
   "active": "03c22562286ae92f",
   "lastOpenFiles": [
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-65.md",
+    "Assets/Images/Pasted image 20230725222528.png",
+    "Assets/Images/Pasted image 20230725222348.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-64.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-63.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-65.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-67.md",
@@ -187,7 +190,6 @@
     "DailyNotes/系统设计/ByteByteGo Newsletter",
     "Assets/Images/Pasted image 20230715000145.png",
     "Assets/Images/Pasted image 20230714235524.png",
-    "Assets/Images/Pasted image 20230714235422.png",
     "DailyNotes/系统设计/凤凰架构.md",
     "DailyNotes/计算机基础/网络基础.md",
     "Day Planners/Day Planner-20230710.md",
@@ -205,7 +207,6 @@
     "Day Planners/Day Planner-20230705.md",
     "Day Planners/Day Planner-20230509.md",
     "DailyNotes/CSAPP/2022-07-05.md",
-    "DailyNotes/系统设计/2023-05-06-原始分布式.md",
     "_debug_remotely_save",
     "DailyNotes/计算机基础",
     "DailyNotes",
