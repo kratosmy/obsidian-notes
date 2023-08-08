@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16c6f13aa97f86a3",
+        "id": "0e83836d0e2a55aa",
         "type": "tabs",
         "children": [
           {
-            "id": "c999160a1e1378ed",
+            "id": "52bcaaf59e04f190",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/计算机基础/网络基础.md",
+                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/计算机基础/网络基础.md",
+                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/计算机基础/网络基础.md"
+                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md"
               }
             }
           },
@@ -167,9 +167,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c999160a1e1378ed",
+  "active": "52bcaaf59e04f190",
   "lastOpenFiles": [
+    "DailyNotes/Netty/一、Netty的概念和体系结构.md",
+    "DailyNotes/Netty",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-58.md",
+    "Assets/Images/Pasted image 20230808214734.png",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-57.md",
+    "DailyNotes/计算机基础/网络基础.md",
     "Assets/Images/Pasted image 20230807222533.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-59.md",
     "Assets/Images/Pasted image 20230804233235.png",
@@ -179,7 +184,6 @@
     "Assets/Images/Pasted image 20230803230223.png",
     "Assets/Images/Pasted image 20230801232147.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-62.md",
-    "DailyNotes/计算机基础/网络基础.md",
     "DailyNotes/系统设计/凤凰架构.md",
     "Assets/Images/Pasted image 20230726231540.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-63.md",
@@ -192,7 +196,6 @@
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-67.md",
     "Assets/Images/Pasted image 20230724225817.png",
     "DailyNotes/Tencent/2022-01/2022-01-02.md",
-    "Assets/Images/Pasted image 20230719225032.png",
     "Templates/日志模版.md",
     "Templates/博客模版.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter",
@@ -205,7 +208,6 @@
     "Day Planners/Day Planner-20230506.md",
     "Day Planners/Day Planner-20230517.md",
     "Day Planners/Day Planner-20230518.md",
-    "Day Planners/Day Planner-20230522.md",
     "_debug_remotely_save",
     "DailyNotes/计算机基础",
     "DailyNotes",
