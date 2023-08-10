@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "二、Netty应用程序",
-      "path": "DailyNotes/Netty/二、Netty应用程序.md"
-    },
-    {
-      "basename": "EP-52",
-      "path": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-52.md"
+      "basename": "EP-56",
+      "path": "DailyNotes/EP-56.md"
     },
     {
       "basename": "一、Netty的概念和体系结构",
@@ -199,6 +195,22 @@
     {
       "basename": "2022-02-08",
       "path": "DailyNotes/Tencent/2022-02/2022-02-08.md"
+    },
+    {
+      "basename": "2022-01-24",
+      "path": "DailyNotes/Tencent/2022-01/2022-01-24.md"
+    },
+    {
+      "basename": "2022-01-23",
+      "path": "DailyNotes/Tencent/2022-01/2022-01-23.md"
+    },
+    {
+      "basename": "2022-01-21",
+      "path": "DailyNotes/Tencent/2022-01/2022-01-21.md"
+    },
+    {
+      "basename": "2022-01-18",
+      "path": "DailyNotes/Tencent/2022-01/2022-01-18.md"
     }
   ],
   "omittedPaths": [],
