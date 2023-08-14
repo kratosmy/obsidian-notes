@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md",
+                "file": "DailyNotes/EP-55.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md",
+                "file": "DailyNotes/EP-55.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md"
+                "file": "DailyNotes/EP-55.md"
               }
             }
           },
@@ -169,11 +169,13 @@
   },
   "active": "52bcaaf59e04f190",
   "lastOpenFiles": [
+    "Assets/Images/Pasted image 20230814213936.png",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-57.md",
+    "DailyNotes/EP-55.md",
     "DailyNotes/Netty/一、Netty的概念和体系结构.md",
     "DailyNotes/Netty",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-58.md",
     "Assets/Images/Pasted image 20230808214734.png",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-57.md",
     "DailyNotes/计算机基础/网络基础.md",
     "Assets/Images/Pasted image 20230807222533.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-59.md",
@@ -206,8 +208,6 @@
     "Day Planners/Day Planner-20230419.md",
     "Day Planners/Day Planner-20230418.md",
     "Day Planners/Day Planner-20230506.md",
-    "Day Planners/Day Planner-20230517.md",
-    "Day Planners/Day Planner-20230518.md",
     "_debug_remotely_save",
     "DailyNotes/计算机基础",
     "DailyNotes",
