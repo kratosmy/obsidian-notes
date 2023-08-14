@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0e83836d0e2a55aa",
+        "id": "42e652ba756bed47",
         "type": "tabs",
         "children": [
           {
-            "id": "52bcaaf59e04f190",
+            "id": "fc055321fdb8b0fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/EP-55.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/EP-55.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DailyNotes/EP-55.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,11 +160,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "52bcaaf59e04f190",
+  "active": "7b2102fccdc95c55",
   "lastOpenFiles": [
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-55.md",
+    "Assets/Images/Pasted image 20230814222159.png",
     "Assets/Images/Pasted image 20230814213936.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-57.md",
-    "DailyNotes/EP-55.md",
     "DailyNotes/Netty/一、Netty的概念和体系结构.md",
     "DailyNotes/Netty",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-58.md",
@@ -190,13 +184,11 @@
     "Assets/Images/Pasted image 20230726231540.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-63.md",
     "Assets/Images/Pasted image 20230725222528.png",
-    "Assets/Images/Pasted image 20230725222348.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-64.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-65.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-67.md",
-    "Assets/Images/Pasted image 20230724225817.png",
     "DailyNotes/Tencent/2022-01/2022-01-02.md",
     "Templates/日志模版.md",
     "Templates/博客模版.md",
