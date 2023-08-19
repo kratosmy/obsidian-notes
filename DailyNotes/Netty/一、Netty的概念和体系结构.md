@@ -1,5 +1,5 @@
 
-### 阻塞I/O调用
+## 阻塞I/O调用
 
 服务端：
 ```java
@@ -83,5 +83,51 @@ public class ClientExample {
 要注意，Client和Server各自的`InputStream`和`OutputStream`都是相对的。
 
 
-### NIO非阻塞调用
+## NIO非阻塞调用
 
+通过`java.nio.channels.Selector`实现轮询非阻塞，示例代码见：[Java NIO - 基础详解 | Java 全栈知识体系](https://pdai.tech/md/java/io/java-io-nio.html)
+
+
+## Netty核心组件
+
+### Channel
+
+可以理解成“网线”。
+
+### 回调
+
+例如当一个新的连接建立的时候，`ChannelInboundHandlerAdapter`的`channelActive()`会被触发。
+
+### Future
+
+注意下面这段代码：
+```java
+public class ConnectExample {  
+    private static final Channel CHANNEL_FROM_SOMEWHERE = new NioSocketChannel();  
+  
+    public static void connect() {  
+        Channel channel = CHANNEL_FROM_SOMEWHERE; 
+        ChannelFuture future = channel.connect(  
+                new InetSocketAddress("192.168.0.1", 25));  
+        future.addListener(new ChannelFutureListener() {  
+            @Override  
+            public void operationComplete(ChannelFuture future) {  
+                if (future.isSuccess()) {  
+                    ByteBuf buffer = Unpooled.copiedBuffer(  
+                            "Hello", Charset.defaultCharset());  
+                    ChannelFuture wf = future.channel()  
+                            .writeAndFlush(buffer);  
+                    // ...  
+                } else {  
+                    Throwable cause = future.cause();  
+                    cause.printStackTrace();  
+                }  
+            }  
+        });  
+  
+    }  
+}
+```
+
+这里的`channel.connect(ip, port)`是不会阻塞的，连接结果如何都交给后台处理了。
+所以Future其实是回调的一个更加精细的版本，一个更具体的实现。
