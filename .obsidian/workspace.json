@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/EP-54.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/EP-54.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/EP-54.md"
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md"
               }
             }
           },
@@ -167,8 +167,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fc055321fdb8b0fe",
+  "active": "7b2102fccdc95c55",
   "lastOpenFiles": [
+    "Assets/Images/Pasted image 20230818233712.png",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-55.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-54.md",
     "Assets/Images/Pasted image 20230815225457.png",
     "Assets/Images/Pasted image 20230815223035.png",
     "Assets/Images/Pasted image 20230815222726.png",
@@ -179,9 +183,6 @@
     "Assets/Images/Pasted image 20230815220354.png",
     "Assets/Images/Pasted image 20230815220350.png",
     "Assets/Images/Pasted image 20230815220339.png",
-    "DailyNotes/EP-54.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-55.md",
-    "Assets/Images/Pasted image 20230814222159.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-57.md",
     "DailyNotes/Netty/一、Netty的概念和体系结构.md",
     "DailyNotes/Netty",
@@ -207,7 +208,6 @@
     "Day Planners/Day Planner-20230510.md",
     "Day Planners/Day Planner-20230426.md",
     "Day Planners/Day Planner-20230419.md",
-    "Day Planners/Day Planner-20230418.md",
     "_debug_remotely_save",
     "DailyNotes/计算机基础",
     "DailyNotes",
