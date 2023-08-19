@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md",
+                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md",
+                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md"
+                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md"
               }
             }
           },
@@ -167,11 +167,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7b2102fccdc95c55",
+  "active": "fc055321fdb8b0fe",
   "lastOpenFiles": [
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md",
     "Assets/Images/Pasted image 20230818233712.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-55.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-54.md",
     "Assets/Images/Pasted image 20230815225457.png",
     "Assets/Images/Pasted image 20230815223035.png",
@@ -182,7 +182,6 @@
     "Assets/Images/Pasted image 20230815220546.png",
     "Assets/Images/Pasted image 20230815220354.png",
     "Assets/Images/Pasted image 20230815220350.png",
-    "Assets/Images/Pasted image 20230815220339.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-57.md",
     "DailyNotes/Netty/一、Netty的概念和体系结构.md",
     "DailyNotes/Netty",

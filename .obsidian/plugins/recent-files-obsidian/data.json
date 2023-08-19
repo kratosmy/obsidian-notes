@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "一、Netty的概念和体系结构",
+      "path": "DailyNotes/Netty/一、Netty的概念和体系结构.md"
+    },
+    {
       "basename": "EP-53",
       "path": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "EP-57",
       "path": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-57.md"
-    },
-    {
-      "basename": "一、Netty的概念和体系结构",
-      "path": "DailyNotes/Netty/一、Netty的概念和体系结构.md"
     },
     {
       "basename": "EP-58",
