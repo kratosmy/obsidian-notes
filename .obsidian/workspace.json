@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md",
+                "file": "DailyNotes/Netty/二、Netty应用程序.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md",
+                "file": "DailyNotes/Netty/二、Netty应用程序.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/Netty/一、Netty的概念和体系结构.md"
+                "file": "DailyNotes/Netty/二、Netty应用程序.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "fc055321fdb8b0fe",
   "lastOpenFiles": [
+    "DailyNotes/Netty/一、Netty的概念和体系结构.md",
+    "DailyNotes/Netty/二、Netty应用程序.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md",
     "Assets/Images/Pasted image 20230818233712.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-55.md",
@@ -183,7 +185,6 @@
     "Assets/Images/Pasted image 20230815220354.png",
     "Assets/Images/Pasted image 20230815220350.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-57.md",
-    "DailyNotes/Netty/一、Netty的概念和体系结构.md",
     "DailyNotes/Netty",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-58.md",
     "DailyNotes/计算机基础/网络基础.md",

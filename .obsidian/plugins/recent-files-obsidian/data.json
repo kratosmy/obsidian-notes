@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "二、Netty应用程序",
+      "path": "DailyNotes/Netty/二、Netty应用程序.md"
+    },
+    {
       "basename": "一、Netty的概念和体系结构",
       "path": "DailyNotes/Netty/一、Netty的概念和体系结构.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-01-24",
       "path": "DailyNotes/Tencent/2022-01/2022-01-24.md"
-    },
-    {
-      "basename": "2022-01-23",
-      "path": "DailyNotes/Tencent/2022-01/2022-01-23.md"
     }
   ],
   "omittedPaths": [],

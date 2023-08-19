@@ -131,3 +131,7 @@ public class ConnectExample {
 
 这里的`channel.connect(ip, port)`是不会阻塞的，连接结果如何都交给后台处理了。
 所以Future其实是回调的一个更加精细的版本，一个更具体的实现。
+
+### ChannelHandler
+
+Netty内部有很多开箱即用的事件处理器，用于处理特定的事件（HSF的设计灵感也是基于此），这是责任链模式的优秀实践。
