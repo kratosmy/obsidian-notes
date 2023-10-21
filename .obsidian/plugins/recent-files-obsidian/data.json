@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "EP 52",
-      "path": "DailyNotes/EP 52.md"
-    },
-    {
       "basename": "二、Netty应用程序",
       "path": "DailyNotes/Netty/二、Netty应用程序.md"
+    },
+    {
+      "basename": "EP-52",
+      "path": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-52.md"
     },
     {
       "basename": "一、Netty的概念和体系结构",

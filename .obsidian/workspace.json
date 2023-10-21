@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/EP 52.md",
+                "file": "DailyNotes/Netty/二、Netty应用程序.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/EP 52.md",
+                "file": "DailyNotes/Netty/二、Netty应用程序.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/EP 52.md"
+                "file": "DailyNotes/Netty/二、Netty应用程序.md"
               }
             }
           },
@@ -169,10 +169,10 @@
   },
   "active": "fc055321fdb8b0fe",
   "lastOpenFiles": [
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-52.md",
     "Assets/Images/Pasted image 20230821221948.png",
     "Assets/Images/Pasted image 20230821215345.png",
     "DailyNotes/Netty/二、Netty应用程序.md",
-    "DailyNotes/EP 52.md",
     "Assets/Images/Pasted image 20230820220214.png",
     "DailyNotes/Netty/一、Netty的概念和体系结构.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md",
@@ -185,7 +185,6 @@
     "Assets/Images/Pasted image 20230815221312.png",
     "Assets/Images/Pasted image 20230815221245.png",
     "Assets/Images/Pasted image 20230815221033.png",
-    "Assets/Images/Pasted image 20230815220546.png",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-57.md",
     "DailyNotes/Netty",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-58.md",
