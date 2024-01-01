@@ -11,8 +11,12 @@
             "id": "7bc1d6a03ee22312",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-56.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-56.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-56.md"
+              }
             }
           },
           {
@@ -177,7 +184,7 @@
     "Assets/Images/Pasted image 20230815221312.png",
     "Assets/Images/Pasted image 20230815221245.png",
     "Assets/Images/Pasted image 20230815221033.png",
-    "DailyNotes/EP-56.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-56.md",
     "conflict-files-obsidian-git.md",
     "DailyNotes/Netty/一、Netty的概念和体系结构.md",
     "DailyNotes/Netty",

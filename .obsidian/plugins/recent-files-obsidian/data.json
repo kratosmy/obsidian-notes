@@ -2,31 +2,19 @@
   "recentFiles": [
     {
       "basename": "EP-56",
-      "path": "DailyNotes/EP-56.md"
+      "path": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-56.md"
     },
     {
       "basename": "一、Netty的概念和体系结构",
       "path": "DailyNotes/Netty/一、Netty的概念和体系结构.md"
     },
     {
-      "basename": "EP-53",
-      "path": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md"
-    },
-    {
-      "basename": "EP-55",
-      "path": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-55.md"
-    },
-    {
-      "basename": "EP-54",
-      "path": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-54.md"
+      "basename": "EP-58",
+      "path": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-58.md"
     },
     {
       "basename": "EP-57",
       "path": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-57.md"
-    },
-    {
-      "basename": "EP-58",
-      "path": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-58.md"
     },
     {
       "basename": "网络基础",
@@ -207,10 +195,6 @@
     {
       "basename": "2022-01-21",
       "path": "DailyNotes/Tencent/2022-01/2022-01-21.md"
-    },
-    {
-      "basename": "2022-01-18",
-      "path": "DailyNotes/Tencent/2022-01/2022-01-18.md"
     }
   ],
   "omittedPaths": [],
