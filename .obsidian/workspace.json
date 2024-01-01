@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-56.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-62.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:System-Design",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-56.md",
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-62.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-56.md"
+                "file": "DailyNotes/系统设计/ByteByteGo Newsletter/EP-62.md"
               }
             }
           },
@@ -132,9 +133,20 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3954eebeff02fe61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "bc5e50a2b481da93",
@@ -167,11 +179,25 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7bc1d6a03ee22312",
+  "active": "efb6c7f112afedef",
   "lastOpenFiles": [
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-55.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-54.md",
+    "Blog Posts/Archived/MySQL/2021-01-02-MySQL索引概述.md",
+    "Blog Posts/Archived/MySQL/2021-01-02-MySQL绱㈠紩姒傝堪.md",
+    "Blog Posts/Archived/MySQL/2021-01-01-MySQL架构.md",
+    "Blog Posts/Archived/MySQL/2021-01-01-SQL调优.md",
+    "Blog Posts/Archived/MySQL/2021-01-01-SQL璋冧紭.md",
+    "Blog Posts/Archived/MySQL/2021-01-01-MySQL架构介绍.md",
+    "Blog Posts/Archived/MySQL/2021-01-12-MySQL绱㈠紩浼樺寲.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-67.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-64.md",
+    "Templates/日志模版.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-53.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-56.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-54.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-62.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-63.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-60.md",
+    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-55.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-52.md",
     "DailyNotes/Netty/二、Netty应用程序.md",
     "Assets/Images/Pasted image 20230821221948.png",
@@ -184,7 +210,6 @@
     "Assets/Images/Pasted image 20230815221312.png",
     "Assets/Images/Pasted image 20230815221245.png",
     "Assets/Images/Pasted image 20230815221033.png",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-56.md",
     "conflict-files-obsidian-git.md",
     "DailyNotes/Netty/一、Netty的概念和体系结构.md",
     "DailyNotes/Netty",
@@ -192,19 +217,7 @@
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-57.md",
     "DailyNotes/计算机基础/网络基础.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-59.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-60.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter/EP-61.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-62.md",
-    "DailyNotes/系统设计/凤凰架构.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-63.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-64.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-65.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-66.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-68.md",
-    "DailyNotes/系统设计/ByteByteGo Newsletter/EP-67.md",
-    "DailyNotes/Tencent/2022-01/2022-01-02.md",
-    "Templates/日志模版.md",
-    "Templates/博客模版.md",
     "DailyNotes/系统设计/ByteByteGo Newsletter",
     "Day Planners",
     "_debug_remotely_save",
