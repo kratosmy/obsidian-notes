@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:System-Design",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "bc5e50a2b481da93",
@@ -179,7 +179,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "efb6c7f112afedef",
+  "active": "7bc1d6a03ee22312",
   "lastOpenFiles": [
     "Blog Posts/Archived/MySQL/2021-01-02-MySQL索引概述.md",
     "Blog Posts/Archived/MySQL/2021-01-02-MySQL绱㈠紩姒傝堪.md",
